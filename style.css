@@ -1,19 +1,35 @@
 h1 {
-    color: crimson;
+    color: rgb(255, 255, 255);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     text-align: center;
     padding: 20px, 20px;
 }
+
 p {
-    color: darkgoldenrod;
+    color: rgb(255, 255, 255);
 }
+
 ul {
-    color: darkviolet;
+    color: rgb(255, 255, 255);
 }
+
 li {
-    color: darkslategray;
+    color: rgb(255, 255, 255);
 }
+
+hr {
+    height: 3px;
+    border: none;
+    background-color: crimson;
+}
+
+body {
+    background-image: url(pink_background.jpg);
+    background-size: auto;
+    background-repeat: repeat;
+}
+
 
 .class{
 
@@ -22,3 +38,4 @@ li {
 #id {
 
 }
+
