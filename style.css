@@ -26,6 +26,7 @@ hr {
 
 body {
     background-image: url(pink_background.jpg);
+    /* background-image: pink_background.jpg; */
     background-size: auto;
     background-repeat: repeat;
 }
